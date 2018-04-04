@@ -1,0 +1,21 @@
+@import url(http://fonts.googleapis.com/css?family=Raleway:400,100,300,500,600,700);
+@import 'https://fonts.googleapis.com/css?family=Droid+Serif:40,100,300,500,600,700';
+
+
+
+.container-fluid{
+    background-image: url('/assets/images/bg2.jpg');
+    /* width:100vw; */
+    height: 93vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: 2px 2px 2px;
+    opacity:0.8;
+
+}
+.font{
+    font-family: 'IBM Plex Sans', sans-serif;
+font-family: 'Kurale', serif;
+color:royalblue;
+font-size: 10px;
+}
